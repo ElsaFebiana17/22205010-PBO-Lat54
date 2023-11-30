@@ -8,6 +8,10 @@ import java.util.Scanner;
 /**
  *
  * @author lenovo
+ *Nama : Elsa Febiana
+ *NIM : 22205010
+ *Prodi : Teknik Informatika
+ *Semester : 3
  */
 // Kelas Koordinat 
 class Koordinat {
